@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringSeqrytyApp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringSeqryty.war">
+      <element id="artifact" artifact-name="SpringSeqrytyApp:war exploded" />
+    </root>
+  </artifact>
+</component>
